@@ -1,3 +1,7 @@
+# Clion files
+.idea
+cmake-build-debug
+
 *.pro
 *.pro.user
 *.pro.user*
